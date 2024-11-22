@@ -41,3 +41,11 @@ Spicetify RosePineMoon theme and dunst notification colours
 
 Lockscreen (made with Canva)
 ![Screenshot_20240928_122612](https://github.com/user-attachments/assets/1c7850ae-a082-4506-8e5e-d882304e5185)
+
+
+#NOTES for installation
+
+- spicetify: look up at the right settings, things might be different from the written tutorial
+- work on updater.sh to solve the issue of sddm changing after update
+- light purple firefox theme/check if there's the tui one
+- POketube - Stylus
