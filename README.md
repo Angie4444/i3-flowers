@@ -49,3 +49,4 @@ Lockscreen (made with Canva)
 - work on updater.sh to solve the issue of sddm changing after update
 - light purple firefox theme/check if there's the tui one
 - POketube - Stylus
+- add bluetooth
